@@ -1,1 +1,1 @@
-see: 
+see: http://spring-guides.marcuschiu.com/spring-ldap/spring-ldap.html
